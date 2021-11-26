@@ -28,30 +28,34 @@ At each step in both development and deployment parts, logging operation is perf
 
 So, now we can find the Concrete compressive strength quickly by just passing the quantities of the raw materials as an input to the web application 😊. 
 
-## Web Deployment
+## Web Deployment:
 -------------------------------------------------------
 
 Deployed on web using Heroku (PaaS) 
 url:- https://cement-strengh-predictor.herokuapp.com/ 
 
-## User Interface
+## User Interface:
 ------------------------------------------------------------
 
  * Home Page
+ 
 ![image](https://user-images.githubusercontent.com/76476273/143610284-f690f4f4-6506-43e3-8d9a-8e2cae29a5b3.png)
 
  * Predict Page 
+
 ![image](https://user-images.githubusercontent.com/76476273/143610318-14c5546d-93d2-4165-af26-d2a9ead93358.png)
 
 
-## Tools and technologies used
+## Tools and technologies used:
+----------------------------------------------------------------------------------------
 
 ![tools and technologies used](https://user-images.githubusercontent.com/22242325/135045139-7e9e2bdd-ae1a-43f7-9c8b-5d12e4a4cd62.png)
 
 
 
   
-## References
+## References:
+----------------------------------------------------------------
  
  - [Testing the compressive strength of a concrete in laboratory](https://www.youtube.com/watch?v=t4RDdn6rOwU&ab_channel=Anime_Edu-CivilEngineeringVideos) 
  - [Concrete Basics: Essential Ingredients For A Concrete Mixture](https://concretesupplyco.com/concrete-basics/)
@@ -64,8 +68,33 @@ url:- https://cement-strengh-predictor.herokuapp.com/
  - [Post pruning technique in Decision tree algorithm ](https://towardsdatascience.com/3-techniques-to-avoid-overfitting-of-decision-trees-1e7d3d985a09)
  - [Hyper parameter tuning in XGBoost ](https://xgboost.readthedocs.io/en/latest/tutorials/param_tuning.html)
  - [HTML, CSS tutorials ](https://www.w3schools.com/)
-## Author
 
+## Run Locally
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Clone the project
+```bash
+  git clone https://github.com/Vikas2201/
+```
+* Go to the project directory
+```bash
+  cd Backorder-prediction-1
+ ```
+* Install dependencies
+```bash
+  pip install -r requirements.txt
+```
+* Setting up the Controllers files
+```bash
+    Update the values inside the Controllers folder
+```
+* Run the app.py
+```bash
+  python app.py
+```
+
+## Author
+--------------------------------------------------------------------------
 - shubham chaudhari 
 - Vikas Prajapat.
 
