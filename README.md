@@ -26,7 +26,7 @@ So, now we can find the Concrete compressive strength quickly by just passing th
 
 ## Web Deployment
 Deployed on web using Heroku (PaaS) 
-url:- 
+url:- https://cement-strengh-predictor.herokuapp.com/ 
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/22242325/134782546-83e740aa-c0c5-45d9-a302-6f30b4362d7e.png)
