@@ -1,11 +1,16 @@
 
 # Concrete Compressive Strength Prediction
+---------------------------------------------------------
+
+## Problem Statement:
+-------------------------------------------------------------------------
 
 The quality of concrete is determined by its compressive strength, which is measured using a conventional crushing test on a concrete cylinder. The strength of the concrete is also a vital aspect in achieving the requisite longevity. It will take 28 days to test strength, which is a long period.
 I solved this problem using Data science and Machine learning technology, developed a web application which predicts the "Concrete compressive strength" based on the quantities of raw material, given as an input. Sounds like this saves a lot of time and effort right !
 
-
 ## Approach:
+-----------------------------------------------------------------------------
+
 1. Loading the dataset using Pandas and performed basic checks like the data type of each column and having any missing values.
 2. Performed Exploratory data analysis:
     - First viewed the distribution of the target feature, "Concrete compressive strength", which was in Normal distribution with a very little right skewness.
@@ -23,15 +28,19 @@ At each step in both development and deployment parts, logging operation is perf
 
 So, now we can find the Concrete compressive strength quickly by just passing the quantities of the raw materials as an input to the web application 😊. 
 
-
 ## Web Deployment
+-------------------------------------------------------
+
 Deployed on web using Heroku (PaaS) 
 url:- https://cement-strengh-predictor.herokuapp.com/ 
-## Screenshots
 
+## User Interface
+------------------------------------------------------------
+
+ * Home Page
 ![image](https://user-images.githubusercontent.com/76476273/143610284-f690f4f4-6506-43e3-8d9a-8e2cae29a5b3.png)
 
-
+ * Predict Page 
 ![image](https://user-images.githubusercontent.com/76476273/143610318-14c5546d-93d2-4165-af26-d2a9ead93358.png)
 
 
