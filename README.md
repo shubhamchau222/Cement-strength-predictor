@@ -93,9 +93,16 @@ url:- https://cement-strengh-predictor.herokuapp.com/
   python app.py
 ```
 
-## Author
---------------------------------------------------------------------------
-- shubham chaudhari 
-- Vikas Prajapat.
+## Teams Members Name
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ * [@Vikas](https://github.com/Vikas2201)
+ * [@Chaudhary Shubham R.](https://github.com/shubhamchau222)
+
+## Help Me Improve
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hello Reader if you find any bug please consider raising issue I will address them asap.
+
 
   
