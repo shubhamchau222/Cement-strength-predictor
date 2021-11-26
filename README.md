@@ -74,11 +74,11 @@ url:- https://cement-strengh-predictor.herokuapp.com/
 
 * Clone the project
 ```bash
-  git clone https://github.com/Vikas2201/
+  git clone https://github.com/Vikas2201/Cement-strength-predictor
 ```
 * Go to the project directory
 ```bash
-  cd Backorder-prediction-1
+  cd Cement-strength-predictor
  ```
 * Install dependencies
 ```bash
