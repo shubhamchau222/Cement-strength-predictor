@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction</title>
+    <link rel="stylesheet" href="../static/Style2.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+</head>
+<body>
+    <section>
+        <div class="side">
+            <img src="{{url_for('static', filename='Compressive_strength_test.gif')}}" width="350px" height="350px">
+            <h2>Project: Concrete compressive Strength Predictor</h2>
+            <h2>Implement Using Machine Learning Technique </h2>
+
+            <h2>Team Members Name : </h2>
+            <ul>
+                <li>Vikas</li>
+                <li>Shubham R Chaudhari</li>
+            </ul>
+        </div>
+        <div class="vl"></div>
+        <div class="main results">
+            <h1>Machine Learning Prediction</h1>
+            <h2 style="color:yellow; font-size: x-large;">{{prediction_text}}</h2>
+            <span style='font-size:100px;'>&#128526;</span>
+            <br><br><br>
+            <br><br><br>
+            <footer class="button"><f> Designed by <a href="https://www.linkedin.com/in/vikas-a74441190/" style="text-align: center;" > Vikas </a>  |  <a href="https://commons.wikimedia.org/wiki/File:Compressive_strength_test.gif#/media/File:Compressive_strength_test.gif" style="text-align: right;"> GIF source </a> </f></footer>
+    <!--footer class="button"></footer-->
+        </div>
+    </section>
+</body>
+</html>
