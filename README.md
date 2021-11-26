@@ -29,6 +29,11 @@ Deployed on web using Heroku (PaaS)
 url:- https://cement-strengh-predictor.herokuapp.com/ 
 ## Screenshots
 
+![image](https://user-images.githubusercontent.com/76476273/143610284-f690f4f4-6506-43e3-8d9a-8e2cae29a5b3.png)
+
+
+![image](https://user-images.githubusercontent.com/76476273/143610318-14c5546d-93d2-4165-af26-d2a9ead93358.png)
+
 
 ## Tools and technologies used
 
