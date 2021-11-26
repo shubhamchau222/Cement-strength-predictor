@@ -1,0 +1,8 @@
+Algorithm,Imp_Features
+Linear Regression_BE,"['cement', 'blast_furnace_slag', 'fly_ash', 'water', 'superplasticizer', 'age']"
+Linear Regression_RFE,"Index(['cement', 'blast_furnace_slag', 'fly_ash', 'water', 'superplasticizer',
+       'coarse_aggregate', 'fine_aggregate ', 'age'],
+      dtype='object')"
+Linear Regression_Lasso,"['cement', 'age', 'blast_furnace_slag', 'fly_ash', 'superplasticizer', 'fine_aggregate', 'water']"
+Decision tree regressor,"['cement', 'age', 'water', 'blast_furnace_slag']"
+Decision tree regressor_post pruning,"['cement', 'age', 'water', 'blast_furnace_slag']"
